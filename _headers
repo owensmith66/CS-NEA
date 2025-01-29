@@ -1,0 +1,7 @@
+/Build/*.br
+  Content-Encoding: br
+  Content-Type: application/wasm
+
+/Build/*.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
